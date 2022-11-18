@@ -1,4 +1,4 @@
- "entities": [
+{ "entities": [
     {
       "aktivan": true,
       "opisnaOcjena": true,
@@ -9,7 +9,7 @@
       "id": 1,
       "naziv": "Hrvatski"
     },
-	{
+    {
       "aktivan": true,
       "opisnaOcjena": true,
       "brojcanaOcjena": true,
@@ -19,7 +19,7 @@
       "id": 2,
       "naziv": "Matematika"
     },
-	{
+    {
       "aktivan": true,
       "opisnaOcjena": true,
       "brojcanaOcjena": true,

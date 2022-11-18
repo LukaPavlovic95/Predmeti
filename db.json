@@ -1,0 +1,33 @@
+ "entities": [
+    {
+      "aktivan": true,
+      "opisnaOcjena": true,
+      "brojcanaOcjena": true,
+      "apstraktni": true,
+      "statusStranogJezika": 1,
+      "umjetnickiPredmetTjednaZaduzenja": true,
+      "id": 1,
+      "naziv": "Hrvatski"
+    },
+	{
+      "aktivan": true,
+      "opisnaOcjena": true,
+      "brojcanaOcjena": true,
+      "apstraktni": true,
+      "statusStranogJezika": 1,
+      "umjetnickiPredmetTjednaZaduzenja": true,
+      "id": 2,
+      "naziv": "Matematika"
+    },
+	{
+      "aktivan": true,
+      "opisnaOcjena": true,
+      "brojcanaOcjena": true,
+      "apstraktni": true,
+      "statusStranogJezika": 1,
+      "umjetnickiPredmetTjednaZaduzenja": true,
+      "id": 3,
+      "naziv": "Fizika"
+    }
+  ]
+}
